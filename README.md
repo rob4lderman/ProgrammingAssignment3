@@ -1,4 +1,6 @@
 
+## Coursera: R Programming: Programming Assignment #3
+
 Coursera assignment page: https://class.coursera.org/rprog-010/assignment/view?assignment_id=7
 
 Data: https://d396qusza40orc.cloudfront.net/rprog%2Fdata%2FProgAssignment3-data.zip
